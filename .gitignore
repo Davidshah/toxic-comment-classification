@@ -1,0 +1,6 @@
+# Folders
+data/
+saved_models/
+
+# Jupyter Notebook
+.ipynb_checkpoints
