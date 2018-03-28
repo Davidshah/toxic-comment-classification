@@ -1,4 +1,4 @@
-# Toxic Comment Classification: GRU Network with FastText embeddings
+# Toxic Comment Classification: GRU Network with FastText Embeddings
 
 ### Overview
 In this notebook, we'll be developing a model that can classify string comments based on their toxicity:
